@@ -1,3 +1,3 @@
-void sayText() {
-  alert("oh hi")
+function whatsup() {
+  alert("blood 1997 is awesome")
 }
